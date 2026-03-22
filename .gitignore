@@ -1,0 +1,41 @@
+# ======================
+# Java Compilation
+# ======================
+*.class
+
+# ======================
+# Maven
+# ======================
+/target/
+dependency-reduced-pom.xml
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# NetBeans
+# ======================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ======================
+# Operating System Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Environment Variables
+# ======================
+.env
+
+# ======================
+# Temporary Files
+# ======================
+*.tmp
+*.swp
