@@ -1,6 +1,6 @@
 package com.patterns.design.domain.model;
 
-// Builder Pattern
+// BUILDER PATTERN
 public class Transaction {
 
   private final String id;

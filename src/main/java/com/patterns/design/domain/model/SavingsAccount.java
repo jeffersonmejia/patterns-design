@@ -1,6 +1,6 @@
 package com.patterns.design.domain.model;
 
-// Factory Product
+// FACTORY PRODUCT
 public class SavingsAccount implements Account {
 
   public AccountType getType() {

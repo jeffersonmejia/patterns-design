@@ -1,6 +1,6 @@
 package com.patterns.design.infrastructure.persistence;
 
-// Singleton Pattern
+// SINGLETON PATTERN
 public class DatabaseConnection {
 
   private static DatabaseConnection instance;

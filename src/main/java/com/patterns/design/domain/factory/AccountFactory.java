@@ -2,7 +2,7 @@ package com.patterns.design.domain.factory;
 
 import com.patterns.design.domain.model.*;
 
-// Factory Pattern
+// FACTORY PATTERN
 public class AccountFactory {
 
   public static Account create(AccountType type) {
